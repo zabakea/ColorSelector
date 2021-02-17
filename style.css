@@ -1,0 +1,11 @@
+#output {
+  height: 80vw;
+  width: 80vw;
+  border: 1px solid black;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.text {
+  margin-left: 50vw;
+}
